@@ -71,9 +71,10 @@
   width: 100%;
 }
 
-.underline {
+#underline {
   background-color: #BCBBBB;
   height: 4px;
+  width: 100%
 }
 
 h1 {
