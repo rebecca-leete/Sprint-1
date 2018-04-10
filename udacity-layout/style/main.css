@@ -71,6 +71,11 @@
   width: 100%;
 }
 
+.underline {
+  background-color: #BCBBBB;
+  height: 4px;
+}
+
 h1 {
   color: #747704;
   text-align: right;
