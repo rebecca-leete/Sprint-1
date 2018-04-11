@@ -56,7 +56,6 @@
 .col-9 {
   width: 75%;
   height: 200px;
-  overflow: auto;
 }
 
 .col-10 {
@@ -72,9 +71,9 @@
 }
 
 #underline {
-  background-color: #BCBBBB;
+  background-image: url("http://www.falshawhomes.co.uk/communities/1/004/013/447/781//images/4629489064_659x200.png");
   height: 4px;
-  width: 100%
+  background-repeat: repeat-y;
 }
 
 h1 {
