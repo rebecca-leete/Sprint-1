@@ -81,7 +81,7 @@ h1 {
   text-align: right;
   font-size: 70px;
   margin: 0px, 20px, 0px, 0px;
-  font-family: 'Century''Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 h5 {
@@ -93,9 +93,4 @@ h5 {
 .intro {
   padding: 10px;
   text-align: justify;
-}
-
-@font-face {
-  font-family: Century;
-  src: url(/century-gothic/GOTHIC.ttf);
 }
