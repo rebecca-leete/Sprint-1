@@ -17,7 +17,7 @@
 
 .row {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   display: flex;
 }
 
@@ -73,20 +73,22 @@
 #underline {
   background-color: #BCBBBB;
   height: 4px;
+  margin: 0;
 }
 
 h1 {
   color: #747704;
   text-align: right;
   font-size: 70px;
-  margin: 0px, 20px, 0px, 0px;
+  margin: 0;
   font-family: 'Montserrat', sans-serif;
 }
 
 h4 {
+  margin: 0;
   color: #747704;
   text-align: right;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .intro {
@@ -99,6 +101,5 @@ h2 {
   font-size: 50px;
   padding: 0px, 0px, 0px, 8px;
   margin: 20px, 0px, 0px, 5px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-style: none;
+  font-family: 'Montserrat', sans-serif;
 }
