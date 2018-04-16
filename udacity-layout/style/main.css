@@ -17,8 +17,8 @@
   width: 100%;
   margin-bottom: 15px;
   display: flex;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
 .col-1 {
@@ -72,6 +72,7 @@
 
 header {
   padding-top: 40px;
+  margin: 0;
 }
 
 #underline {
