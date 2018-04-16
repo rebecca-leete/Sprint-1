@@ -70,6 +70,10 @@
   width: 100%;
 }
 
+header {
+  padding-top: 40px;
+}
+
 #underline {
   background-color: #BCBBBB;
   height: 4px;
