@@ -91,12 +91,14 @@ h4 {
   font-family: 'Montserrat', sans-serif;
 }
 
+
+
 .intro {
   padding: 10px;
   text-align: justify;
 }
 
-h2 {
+.featured {
   color: #BCBBBB;
   font-size: 35px;
   padding: 0px, 0px, 0px, 8px;
