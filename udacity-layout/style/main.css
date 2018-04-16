@@ -19,6 +19,8 @@
   width: 100%;
   margin-bottom: 15px;
   display: flex;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .col-1 {
@@ -94,7 +96,7 @@ h4 {
 h2 {
   color: #747704;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
 }
@@ -106,14 +108,14 @@ h2 {
 
 .featured {
   color: #BCBBBB;
-  font-size: 35px;
+  font-size: 30px;
   padding: 0px, 0px, 0px, 8px;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
 }
 
 #main-img {
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 
 .center {
